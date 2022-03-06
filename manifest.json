@@ -1,10 +1,10 @@
 {
   "index.html": {
-    "file": "assets/index.80e60398.js",
+    "file": "assets/index.6712c215.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vendor.20209228.js"
+      "_vendor.7d48d56c.js"
     ],
     "css": [
       "assets/index.5194f421.css"
@@ -15,7 +15,7 @@
       "assets/LondrinaSolid-Regular.70cbc60f.ttf"
     ]
   },
-  "_vendor.20209228.js": {
-    "file": "assets/vendor.20209228.js"
+  "_vendor.7d48d56c.js": {
+    "file": "assets/vendor.7d48d56c.js"
   }
 }
