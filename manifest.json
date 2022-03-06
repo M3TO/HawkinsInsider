@@ -1,0 +1,21 @@
+{
+  "index.html": {
+    "file": "assets/index.e9ab506d.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.f89473b2.js"
+    ],
+    "css": [
+      "assets/index.3eb982c2.css"
+    ],
+    "assets": [
+      "assets/bootstrap-icons.76506e12.woff2",
+      "assets/bootstrap-icons.c3ae486b.woff",
+      "assets/LondrinaSolid-Regular.70cbc60f.ttf"
+    ]
+  },
+  "_vendor.f89473b2.js": {
+    "file": "assets/vendor.f89473b2.js"
+  }
+}
