@@ -1,13 +1,13 @@
 {
   "index.html": {
-    "file": "assets/index.93b78ac0.js",
+    "file": "assets/index.a3e4f853.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vendor.7d48d56c.js"
+      "_vendor.3ab4e7f9.js"
     ],
     "css": [
-      "assets/index.5194f421.css"
+      "assets/index.88e43af3.css"
     ],
     "assets": [
       "assets/bootstrap-icons.76506e12.woff2",
@@ -15,7 +15,7 @@
       "assets/LondrinaSolid-Regular.70cbc60f.ttf"
     ]
   },
-  "_vendor.7d48d56c.js": {
-    "file": "assets/vendor.7d48d56c.js"
+  "_vendor.3ab4e7f9.js": {
+    "file": "assets/vendor.3ab4e7f9.js"
   }
 }
